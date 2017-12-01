@@ -1,56 +1,56 @@
-@charset "Shift_JIS";
+@charset "UTF-8";
 
 /*============================================
-‘S”Ê“I‚ÈƒXƒ^ƒCƒ‹
+å…¨èˆ¬çš„ãªã‚¹ã‚¿ã‚¤ãƒ«
 ============================================*/
 * {
-	margin:0; padding:0; 	/*‘S—v‘f‚Ìƒ}[ƒWƒ“EƒpƒfƒBƒ“ƒO‚ğƒŠƒZƒbƒg*/
-	line-height:1.5;	/*‘S—v‘f‚Ìs‚Ì‚‚³‚ğ1.5”{‚É‚·‚é*/
-	color:#333333;		/*•¶šF*/
+	margin:0; padding:0; 	/*å…¨è¦ç´ ã®ãƒãƒ¼ã‚¸ãƒ³ãƒ»ãƒ‘ãƒ‡ã‚£ãƒ³ã‚°ã‚’ãƒªã‚»ãƒƒãƒˆ*/
+	line-height:1.5;	/*å…¨è¦ç´ ã®è¡Œã®é«˜ã•ã‚’1.5å€ã«ã™ã‚‹*/
+	color:#333333;		/*æ–‡å­—è‰²*/
 
 div#container {
 position: relative; 
 
-}	/*ƒwƒbƒ_•”•ª‚Ì”wŒi‰æ‘œ*/
-	text-align:center;		/*IE6ˆÈ‰º‚ÅƒZƒ“ƒ^ƒŠƒ“ƒO‚·‚é‚½‚ß‚Ì‘Îô*/
+}	/*ãƒ˜ãƒƒãƒ€éƒ¨åˆ†ã®èƒŒæ™¯ç”»åƒ*/
+	text-align:center;		/*IE6ä»¥ä¸‹ã§ã‚»ãƒ³ã‚¿ãƒªãƒ³ã‚°ã™ã‚‹ãŸã‚ã®å¯¾ç­–*/
 }
 div#pagebody {
 
-background-image: url("http://static.tumblr.com/2ecff0912870a862db6626387397f06e/rnq362e/DA6nnbcju/tumblr_static_32slu8sdg0owssk48884wkkso.gif"); /* ‘S‘Ì‚Ì”wŒi‰æ‘œ */
-background-repeat: repeat; /* ”wŒi‚ğŒJ‚è•Ô‚³‚È‚¢ */
-background-position: 50% 50%; /* ”wŒi‰æ‘œ‚ÌˆÊ’u‚Í‰æ–Ê’†‰› */
-background-attachment:fixed;/* ”wŒi‰æ‘œ‚ğŒÅ’è‚·‚é */
+background-image: url("http://static.tumblr.com/2ecff0912870a862db6626387397f06e/rnq362e/DA6nnbcju/tumblr_static_32slu8sdg0owssk48884wkkso.gif"); /* å…¨ä½“ã®èƒŒæ™¯ç”»åƒ */
+background-repeat: repeat; /* èƒŒæ™¯ã‚’ç¹°ã‚Šè¿”ã•ãªã„ */
+background-position: 50% 50%; /* èƒŒæ™¯ç”»åƒã®ä½ç½®ã¯ç”»é¢ä¸­å¤® */
+background-attachment:fixed;/* èƒŒæ™¯ç”»åƒã‚’å›ºå®šã™ã‚‹ */
 
-	width:796px; margin:0 auto;	/*“à—e‘S‘Ì‚ğƒZƒ“ƒ^ƒŠƒ“ƒO*/
-	text-align:left;	/*ƒeƒLƒXƒg‚Ì”z’u‚ğ¶‘µ‚¦‚É‚·‚é*/
+	width:796px; margin:0 auto;	/*å†…å®¹å…¨ä½“ã‚’ã‚»ãƒ³ã‚¿ãƒªãƒ³ã‚°*/
+	text-align:left;	/*ãƒ†ã‚­ã‚¹ãƒˆã®é…ç½®ã‚’å·¦æƒãˆã«ã™ã‚‹*/
 }
 
 /*============================================
-ƒwƒbƒ_
+ãƒ˜ãƒƒãƒ€
 ============================================*/
 div#header {
-	height:80px;	/*”wŒi‰æ‘œ‚ÌƒTƒCƒY‚É‡‚í‚¹‚Äƒ{ƒbƒNƒX‚Ì‚‚³‚ğw’è*/
-	background-image:url("http://illustsozai.digitallemon.co.jp/wp-content/uploads/2016/02/143Header_sakura_lemon02.png");	/*ƒwƒbƒ_•”•ª‚Ì”wŒi‰æ‘œ*/
-	background-repeat:no-repeat;		/*”wŒi‰æ‘œ‚ğŒJ‚è•Ô‚³‚È‚¢*/
+	height:80px;	/*èƒŒæ™¯ç”»åƒã®ã‚µã‚¤ã‚ºã«åˆã‚ã›ã¦ãƒœãƒƒã‚¯ã‚¹ã®é«˜ã•ã‚’æŒ‡å®š*/
+	background-image:url("http://illustsozai.digitallemon.co.jp/wp-content/uploads/2016/02/143Header_sakura_lemon02.png");	/*ãƒ˜ãƒƒãƒ€éƒ¨åˆ†ã®èƒŒæ™¯ç”»åƒ*/
+	background-repeat:no-repeat;		/*èƒŒæ™¯ç”»åƒã‚’ç¹°ã‚Šè¿”ã•ãªã„*/
 	width:800px
 }
 h1 {
-	padding:20px 0px 0px 30px;		/*Œ©o‚µ“à—e‚ÌˆÊ’u’²®*/
-	font-family:Arial, Helvetica, sans-serif;	/*ƒtƒHƒ“ƒg‚Ìí—Ş*/
+	padding:20px 0px 0px 30px;		/*è¦‹å‡ºã—å†…å®¹ã®ä½ç½®èª¿æ•´*/
+	font-family:Arial, Helvetica, sans-serif;	/*ãƒ•ã‚©ãƒ³ãƒˆã®ç¨®é¡*/
 }
-h1 a {text-decoration:none;} 			/*ƒŠƒ“ƒN‚Ì‰ºü‚ğ–³‚­‚·*/
+h1 a {text-decoration:none;} 			/*ãƒªãƒ³ã‚¯ã®ä¸‹ç·šã‚’ç„¡ãã™*/
 
 /*============================================
-ƒƒCƒ“ƒƒjƒ…[
+ãƒ¡ã‚¤ãƒ³ãƒ¡ãƒ‹ãƒ¥ãƒ¼
 ============================================*/
 ul#menu {
 
 }
 li#menu01,li#menu02,li#menu03,li#menu04,li#menu05 {
-	float:left;			/*ƒŠƒXƒg€–Ú‚ğ‰¡‚É•À‚×‚é*/
-	display:inline;			/*ƒŠƒXƒg€–Ú‚ğƒCƒ“ƒ‰ƒCƒ“•\¦‚É‚·‚é*/
-	list-style-type:none;		/*ƒŠƒXƒgƒ}[ƒJ[–³‚µ‚É‚·‚é*/
-	background-repeat:no-repeat; 	/*”wŒi‰æ‘œ‚ğŒJ‚è•Ô‚³‚È‚¢*/	
+	float:left;			/*ãƒªã‚¹ãƒˆé …ç›®ã‚’æ¨ªã«ä¸¦ã¹ã‚‹*/
+	display:inline;			/*ãƒªã‚¹ãƒˆé …ç›®ã‚’ã‚¤ãƒ³ãƒ©ã‚¤ãƒ³è¡¨ç¤ºã«ã™ã‚‹*/
+	list-style-type:none;		/*ãƒªã‚¹ãƒˆãƒãƒ¼ã‚«ãƒ¼ç„¡ã—ã«ã™ã‚‹*/
+	background-repeat:no-repeat; 	/*èƒŒæ™¯ç”»åƒã‚’ç¹°ã‚Šè¿”ã•ãªã„*/	
 }
 
 .sample {
@@ -115,43 +115,43 @@ position: relative;
 }
 
 li#menu01 {
-	width:150px; height:42px;	/*”wŒi‰æ‘œ‚É‡‚í‚¹‚½ƒTƒCƒYw’è*/
+	width:200px; height:42px;	/*èƒŒæ™¯ç”»åƒã«åˆã‚ã›ãŸã‚µã‚¤ã‚ºæŒ‡å®š*/
 
 }
 li#menu02 {
-	width:150px; height:42px;	/*”wŒi‰æ‘œ‚É‡‚í‚¹‚½ƒTƒCƒYw’è*/
+	width:200px; height:42px;	/*èƒŒæ™¯ç”»åƒã«åˆã‚ã›ãŸã‚µã‚¤ã‚ºæŒ‡å®š*/
 }
 li#menu03 {
-	width:150px; height:42px;	/*”wŒi‰æ‘œ‚É‡‚í‚¹‚½ƒTƒCƒYw’è*/
+	width:200px; height:42px;	/*èƒŒæ™¯ç”»åƒã«åˆã‚ã›ãŸã‚µã‚¤ã‚ºæŒ‡å®š*/
 }
 
 li#menu04{
-	width:150px; height:42px;	/*”wŒi‰æ‘œ‚É‡‚í‚¹‚½ƒTƒCƒYw’è*/
+	width:200px; height:42px;	/*èƒŒæ™¯ç”»åƒã«åˆã‚ã›ãŸã‚µã‚¤ã‚ºæŒ‡å®š*/
 
 }
 ul#menu a {
 	display:block;	
-	background-color:#ff7f7f			/*ƒŠƒ“ƒN‚ğƒuƒƒbƒN•\¦‚É‚·‚é*/
+	background-color:#ff7f7f			/*ãƒªãƒ³ã‚¯ã‚’ãƒ–ãƒ­ãƒƒã‚¯è¡¨ç¤ºã«ã™ã‚‹*/
 	height:42px; padding-top:4px; text-align:center;
-	text-decoration:none; 			/*ƒŠƒ“ƒN‚Ì‰ºü‚ğ–³‚­‚·*/
-	font-family:Arial, Helvetica, sans-serif;	/*ƒtƒHƒ“ƒg‚Ìí—Ş*/
+	text-decoration:none; 			/*ãƒªãƒ³ã‚¯ã®ä¸‹ç·šã‚’ç„¡ãã™*/
+	font-family:Arial, Helvetica, sans-serif;	/*ãƒ•ã‚©ãƒ³ãƒˆã®ç¨®é¡*/
 }
 
 
 
 }
-/*‰æ‘œ‚ÌƒXƒ‰ƒCƒhƒVƒ‡[‚ğ‰Á‚¦‚é*/
+/*ç”»åƒã®ã‚¹ãƒ©ã‚¤ãƒ‰ã‚·ãƒ§ãƒ¼ã‚’åŠ ãˆã‚‹*/
 html,body { height:100%; }
-/* ¶‘¤ƒJƒ‰ƒ€i•s—v‚È‚Íwidth:0;j */
+/* å·¦å´ã‚«ãƒ©ãƒ ï¼ˆä¸è¦ãªæ™‚ã¯width:0;ï¼‰ */
 #leftcolomn { width:0%;height:100%;background:#ddd;float:left:; }
-/* ƒXƒ‰ƒCƒ_[•”i#leftcolomn‚Ìwidth;0;‚Ì‚Íwidth:100%;j */
+/* ã‚¹ãƒ©ã‚¤ãƒ€ãƒ¼éƒ¨ï¼ˆ#leftcolomnã®width;0;ã®æ™‚ã¯width:100%;ï¼‰ */
 #stage {
 	position:relative;
 	width: 100%;
 	background:#F8F2F2;
 	overflow: hidden;
 }
-/* ƒXƒ‰ƒCƒhŒQ */
+/* ã‚¹ãƒ©ã‚¤ãƒ‰ç¾¤ */
 #photos {
 	position:absolute;
 	width: 100%;
@@ -178,7 +178,7 @@ html,body { height:100%; }
 #photo11 { left:200%; }
 #photo12 { left:220%; }
 #photo13 { left:240%; }
-/* ƒXƒ‰ƒCƒhƒ{ƒ^ƒ“EˆÊ’u•\¦ƒo[ */
+/* ã‚¹ãƒ©ã‚¤ãƒ‰ãƒœã‚¿ãƒ³ãƒ»ä½ç½®è¡¨ç¤ºãƒãƒ¼ */
 #btns { width:20%;margin:0 auto;position:relative; }
 .p_bar { display:block;width:10%;height:8px;background:#aaa; }
 .p_bar { position:absolute;top:8px; }
@@ -197,7 +197,7 @@ html,body { height:100%; }
 
 #r1,#r2,#r3,#r4,#r5,#r6,#r7,#r8 { display:none; }
 
-/* ƒXƒ‰ƒCƒhƒ{ƒ^ƒ“ƒNƒŠƒbƒN‚ÌƒXƒ‰ƒCƒhŒQ‚Ìanimationİ’è */
+/* ã‚¹ãƒ©ã‚¤ãƒ‰ãƒœã‚¿ãƒ³ã‚¯ãƒªãƒƒã‚¯æ™‚ã®ã‚¹ãƒ©ã‚¤ãƒ‰ç¾¤ã®animationè¨­å®š */
 #r1:checked ~ #photos { left:1%;   animation:transtoright1 16s linear infinite;animation-delay:0.5s; }
 #r2:checked ~ #photos { left:-19%; animation:transtoright2 16s linear infinite;animation-delay:0.5s; }
 #r3:checked ~ #photos { left:-39%; animation:transtoright3 16s linear infinite;animation-delay:0.5s; }
@@ -206,7 +206,7 @@ html,body { height:100%; }
 #r6:checked ~ #photos { left:-99%; animation:transtoright6 16s linear infinite;animation-delay:0.5s; }
 #r7:checked ~ #photos { left:-119%; animation:transtoright7 16s linear infinite;animation-delay:0.5s; }
 #r8:checked ~ #photos { left:-139%; animation:transtoright8 16s linear infinite;animation-delay:0.5s; }
-/* ƒXƒ‰ƒCƒhƒ{ƒ^ƒ“ƒNƒŠƒbƒN‚ÌˆÊ’u•\¦ƒo[‚Ìanimationİ’è */
+/* ã‚¹ãƒ©ã‚¤ãƒ‰ãƒœã‚¿ãƒ³ã‚¯ãƒªãƒƒã‚¯æ™‚ã®ä½ç½®è¡¨ç¤ºãƒãƒ¼ã®animationè¨­å®š */
 #r1:checked ~ #btns #p_btn { left:0%; animation-play-state:running; animation:bar_position1 16s linear infinite; animation-delay:2s; }
 #r2:checked ~ #btns #p_btn { left:12%;animation:bar_position2 16s linear infinite; animation-delay:1s; animation-play-state:running;  }
 #r3:checked ~ #btns #p_btn { left:24%; animation:bar_position3 16s linear infinite; animation-delay:1s; animation-play-state:running; }
@@ -215,9 +215,9 @@ html,body { height:100%; }
 #r6:checked ~ #btns #p_btn { left:60%; animation:bar_position6 16s linear infinite; animation-delay:2s; }
 #r7:checked ~ #btns #p_btn { left:72%; animation:bar_position7 16s linear infinite; animation-delay:2s; }
 #r8:checked ~ #btns #p_btn { left:84%; animation:bar_position8 16s linear infinite; animation-delay:2s; }
-/* ƒNƒŠƒbƒN‚³‚ê‚½ƒXƒ‰ƒCƒhƒ{ƒ^ƒ“‚ÌÄƒNƒŠƒbƒN•s”\‚ğ¦‚· */
+/* ã‚¯ãƒªãƒƒã‚¯ã•ã‚ŒãŸã‚¹ãƒ©ã‚¤ãƒ‰ãƒœã‚¿ãƒ³ã®å†ã‚¯ãƒªãƒƒã‚¯ä¸èƒ½ã‚’ç¤ºã™ */
 #r1:checked ~ #btns #btn1,#r2:checked ~ #btns #btn2,#r3:checked ~ #btns #btn3,#r4:checked ~ #btns #btn4,#r5:checked ~ #btns #btn5,#r6:checked ~ #btns #btn6,#r7:checked ~ #btns #btn7,#r8:checked ~ #btns #btn8 { opacity:0.4; cursor:auto;}
-/* ƒXƒ‰ƒCƒhŒQ‚Ìanimation */
+/* ã‚¹ãƒ©ã‚¤ãƒ‰ç¾¤ã®animation */
 @keyframes transtoright0 {
 	0%    { left:1%; }
 	10%   { left:1%; }
@@ -398,7 +398,7 @@ html,body { height:100%; }
 	97.5% { left:-119% }
 	100%  { left:-139%; }
 }
-/* ˆÊ’u•\¦ƒo[‚Ìanimation */
+/* ä½ç½®è¡¨ç¤ºãƒãƒ¼ã®animation */
 @keyframes bar_position0 {
 	0% { left:0%; }
 	10% { left:0% }
@@ -587,7 +587,7 @@ width: 100%;
 height: 100%;
 box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.5),
 inset 0 0 100px rgba(0, 0, 0, 0.2);
-background: rgba(0, 255, 0, 0.1); /* ƒJƒ‰[‚ğd‚Ë‚é */
+background: rgba(0, 255, 0, 0.1); /* ã‚«ãƒ©ãƒ¼ã‚’é‡ã­ã‚‹ */
 }
 .frame2 {
 display: inline-block;
@@ -607,7 +607,7 @@ width: 100%;
 height: 100%;
 background: #fff;
 box-shadow: 
-inset 0 0 20px #fff /* ”wŒiF‚Æ“¯‚¶F */,
+inset 0 0 20px #fff /* èƒŒæ™¯è‰²ã¨åŒã˜è‰² */,
 inset 0 0 20px #fff,
 inset 0 0 20px #fff,
 inset 0 0 20px #fff;
