@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet"type="text/css"href="ayaka.css">
+</head>
+<head>
+<meta charset="Shift_JIS">
+<div id="pagebody">
+
+
+
+	<!-- ヘッダ -->
+<div style="text-shadow:-3px 3px 5px gray">
+
+	<div id="header">
+<span style="margin-left:700px">
+<a href="自己紹介ホームページ英語翻訳ページ.htm">English</a> 
+<a href="自己紹介ホームページ.htm">日本語</a>
+</span>
+</span>
+<h1><a href="自己紹介ホームページ.htm"><font face="Bodoni MT Black" color="#ff7777" >Self Introduction</font></a></h1>
+</div>   
+</div>
+</span>
+	
+	<!-- メインメニュー -->
+	<ul id="menu">
+<li id="menu01"><a href="自己紹介ホームページ.htm"class="sample">Home</a></a></li>
+<li id="menu02"><a href="Experience.htm" class="sample">Experience</a></a></li>
+<li id="menu03"><a href="Club activities.htm" class="sample">Club Activities</a></a></li>
+<li id="menu04"><a href="My Back Ground.htm"class="sample">My Back Ground</a></a></li>
+	
+	</ul>
+
+	<div id="content">
+<br>
+</div>
+</br>
