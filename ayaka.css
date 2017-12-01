@@ -46,7 +46,7 @@ h1 a {text-decoration:none;} 			/*リンクの下線を無くす*/
 ul#menu {
 
 }
-li#menu01,li#menu02,li#menu03,li#menu04,li#menu05 {
+li#menu01,li#menu02,li#menu03,li#menu04 {
 	float:left;			/*リスト項目を横に並べる*/
 	display:inline;			/*リスト項目をインライン表示にする*/
 	list-style-type:none;		/*リストマーカー無しにする*/
@@ -115,18 +115,18 @@ position: relative;
 }
 
 li#menu01 {
-	width:160px; height:42px;	/*背景画像に合わせたサイズ指定*/
+	width:200px; height:42px;	/*背景画像に合わせたサイズ指定*/
 
 }
 li#menu02 {
-	width:160px; height:42px;	/*背景画像に合わせたサイズ指定*/
+	width:200px; height:42px;	/*背景画像に合わせたサイズ指定*/
 }
 li#menu03 {
-	width:160px; height:42px;	/*背景画像に合わせたサイズ指定*/
+	width:200px; height:42px;	/*背景画像に合わせたサイズ指定*/
 }
 
 li#menu04{
-	width:160px; height:42px;	/*背景画像に合わせたサイズ指定*/
+	width:200px; height:42px;	/*背景画像に合わせたサイズ指定*/
 
 }
 ul#menu a {
